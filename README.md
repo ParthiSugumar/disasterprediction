@@ -1,2 +1,13 @@
 # disasterprediction
 Machine learning approach for disaster prediction 
+MACHINE LEARNING TECHNIQUE FOR NATURAL DISASTER PREDICTION
+
+Natural Disasters like flood, earthquake or hurricane causes great property damage or loss of life. It results in great food crises. An adverse event occurs in an area without vulnerable population will not rise to the level of a disaster. In a vulnerable area, it will leave lasting damage which can require years to repair. So, it is better to predict them and make preventive measures in advance.
+Cyclones are like giant engines that use warm, moist air as fuel. As the warmed, moist air rises and cools off, the water in the air forms clouds. The whole system of clouds and wind spins and grows, fed by the ocean's heat and water evaporating from the surface. The system rotates faster and faster, an eye forms in the centre. It is very calm and clear in the eye, with very low air pressure. Higher pressure air from above flows down into the eye.
+	Since the first formed thing in the cyclone is the eye, we can predict the cyclone based on the intensity of the eye. Infrared images of the earth captured by satellite which clearly depict the eye formed in the tropical regions are used. Generally the outer cloud bands of cumulonimbus clouds indicate the future direction, and the cloud pattern surrounding the cyclone eye indicates the future intensity of the cyclone.
+	 Heavy rainfall can also be predicted using CNN. To get results with high success rate we have to consider some additional factors like Warmer temperatures and increased moisture in the atmosphere.
+One technique that has not been used for cyclone track forecasting is Artificial neural networks (ANN). This in spite the fact that ANN-techniques have been used in other remote sensing application areas, such as road network detection, cloud detection, cloud motion detection and precipitation forecasting based on aerial photographs and satellite images. One conceivable reason why ANN-techniques have not been applied to cyclone forecasting is that it is difficult to achieve robust network performance in this complex domain. If used, the task for the neural network is to extract the form of dense clouds in the satellite image and recognize the overall elongated shape that is created by the cyclone in combination with the surrounding clouds.
+So Convolutional Neural Networks (CNN) could be used for this purpose because it has reported high accuracy in other similar domains. CNN has several number of hidden layers in between the input and output layers and the inputs are convolved in such a way that it gives high accuracy.
+	
+	
+	
